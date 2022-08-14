@@ -1,2 +1,6 @@
 # ff_48_csv
-Python script to create a mapping from SIC codes tothe Fama &amp; French 48 industry categories
+csv file and python script to create a mapping from SIC codes to the Fama &amp; French 48 industry categories. 
+
+Alternatively, you can use the function form the following repository:
+
+  https://github.com/yelinhu/Fama-French-48
